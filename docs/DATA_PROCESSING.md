@@ -4,7 +4,7 @@ This document explains the product-level data flow. It is not a substitute for c
 
 ## Processing performed locally
 
-The installed Python package performs the following operations on the customer's computer:
+The installed Python package performs the following operations on the customer's computer:h
 
 - Repository scanning
 - File and language detection
